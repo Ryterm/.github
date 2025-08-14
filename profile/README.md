@@ -2,9 +2,13 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=600&lines=We+are+Ryterm;+Open+Source+for+Everyone" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=600&lines=Open+Source+for+Everyone" alt="Typing SVG" />
 </p>
 
+
+### 💻 We are a determined team of 3 developers, fully focused on Open Source, creating innovative solutions, collaborating globally, and pushing the boundaries of technology.
+
+### 🤖 Together, we build, share, and improve software that empowers communities and drives innovation worldwide.
 
 
 
