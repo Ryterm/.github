@@ -6,7 +6,7 @@
 
 
 ### 💻 About Us
-We are a, fully focused on **Open Source**.  
+We are a fully focused on **Open Source**.  
 We create innovative solutions, collaborate globally, and push the boundaries of technology.
 
 ---
@@ -30,4 +30,5 @@ We believe **collaboration creates innovation** that benefits everyone.
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=6B46C1&animation=fadeIn" />
+
 
