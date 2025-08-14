@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=600&lines=Open+Source+for+Everyone" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  ![Status: Active](https://img.shields.io/badge/status-active-brightgreen) 
+  ![Team: 3 Developers](https://img.shields.io/badge/team-3-blue)
+</p>
+
 
 ### 💻 We are a determined team of 3 developers, fully focused on Open Source, creating innovative solutions, collaborating globally, and pushing the boundaries of technology.
 
@@ -20,4 +25,5 @@
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=6B46C1&animation=fadeIn" />
+
 
