@@ -12,7 +12,7 @@
 ### 🤖 Together, we build, share, and improve software that empowers communities and drives innovation worldwide.
 
 ### 🌱 Why Open Source
-We believe collaboration creates innovation that benefits everyone.
+### We believe collaboration creates innovation that benefits everyone.
 
 ### ✨ Our Values
 - Collaboration over competition  
@@ -24,6 +24,7 @@ We believe collaboration creates innovation that benefits everyone.
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=6B46C1&animation=fadeIn" />
+
 
 
 
